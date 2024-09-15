@@ -113,6 +113,9 @@ p {
 
 /* For laptops with a screen width of 1024px or less */
 @media only screen and (max-width: 1024px) {
+  body {
+  hight: 100vh;
+  }
   .btn {
     height: 140px;
     width: 140px;
